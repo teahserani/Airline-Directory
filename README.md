@@ -16,7 +16,7 @@ Regression Testing
 
 I/O
 
-## Use of Makefile 
+## Using the Makefile 
 
 The makefile should be used to compile and run code. 
 

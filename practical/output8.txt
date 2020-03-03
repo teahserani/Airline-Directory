@@ -1,0 +1,10 @@
+Reseveration Number:  
+Passanger's Name: Nick Johnson
+Reservation Number: 1112
+Flight Number: 891
+Seat Number: B1
+Flighting from ADL to ZAD
+Expected Departure Time: 1245
+Expected Arrival Time: 1434
+
+Please arrive at the airport at: 1045

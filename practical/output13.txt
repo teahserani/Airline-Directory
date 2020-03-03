@@ -1,0 +1,10 @@
+Reseveration Number:  
+Passanger's Name:  
+Reservation Number: 23
+Flight Number: -1377889232
+Seat Number: 
+Flighting from  to 
+Expected Departure Time: 0
+Expected Arrival Time: 0
+
+Please arrive at the airport at: -200

@@ -1,0 +1,10 @@
+Reseveration Number:  
+Passanger's Name: John Smith
+Reservation Number: 1111
+Flight Number: 785
+Seat Number: A1
+Flighting from BOS to DCA
+Expected Departure Time: 1822
+Expected Arrival Time: 2213
+
+Please arrive at the airport at: 1622

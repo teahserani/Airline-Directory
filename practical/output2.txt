@@ -1,0 +1,5 @@
+Enter Flight Number 891
+Plane Type: Airbus 800
+Traveling from BER to JBD
+Departs at: 1325
+Arrives at: 1634

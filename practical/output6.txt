@@ -1,0 +1,5 @@
+Enter Flight Number 8901
+Plane Type: 
+Traveling from  to 
+Departs at: 0
+Arrives at: 1

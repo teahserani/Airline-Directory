@@ -1,0 +1,10 @@
+Reseveration Number:  
+Passanger's Name: Mary Jackson
+Reservation Number: 1113
+Flight Number: 991
+Seat Number: C1
+Flighting from BER to JBD
+Expected Departure Time: 1325
+Expected Arrival Time: 1634
+
+Please arrive at the airport at: 1125

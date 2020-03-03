@@ -1,0 +1,5 @@
+Enter Flight Number 789
+Plane Type: 
+Traveling from  to 
+Departs at: 0
+Arrives at: 1

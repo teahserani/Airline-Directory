@@ -1,0 +1,10 @@
+Reseveration Number:  
+Passanger's Name: Sue Collins
+Reservation Number: 1114
+Flight Number: 891
+Seat Number: D1
+Flighting from BER to JBD
+Expected Departure Time: 1325
+Expected Arrival Time: 1634
+
+Please arrive at the airport at: 1125

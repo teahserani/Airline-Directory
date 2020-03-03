@@ -1,6 +1,0 @@
-Airline Flight Orangizator 
-Creates a class (Flight) that contains functions for plane type, flight number, departing airport and arriving airport   
-Creates a subclass (Passanger information) that includes information of passanger's name, reversation number, flight number and seat. 
-
-If I have time:
-The subclass (Crew Information) that includes number of crew members,pilots name, copilots name, number of flight attendents and flight attendents name  

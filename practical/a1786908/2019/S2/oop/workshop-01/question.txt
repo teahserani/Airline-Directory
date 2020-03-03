@@ -1,9 +1,0 @@
-1.
-The log message allows you to provide information to the creater and others. 
-2.
-A good commit message is short and provides necessary details about what you created. 
-3. 
-You should always commit after creating a file/directory. 
-4. 
-True
-ls

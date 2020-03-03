@@ -2,7 +2,7 @@
 
 ## Object Oriented Programming, University of Adelaide, Adelaide, Australia 
 
-This is small program for an airline directory. Information about flights and passangers are stored. Users can display all flights or all passangers. In addition, the user can look up a flight's information using the flight number or find a passanger's information using a reservation number. 
+This two week assignment is small program for an airline directory. Information about flights and passangers are stored. Users can display all flights or all passangers. In addition, the user can look up a flight's information using the flight number or find a passanger's information using a reservation number. 
 
 This is a class assignment demostrating the following skills:
 

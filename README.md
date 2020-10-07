@@ -10,9 +10,9 @@ Inheritance
 
 Polymorphism
 
-Automated Testing
+Automated Testing*
 
-Regression Testing
+Regression Testing*
 
 I/O
 
@@ -22,3 +22,4 @@ The makefile should be used to compile and run code.
 
 By typeing ```make 0``` the user should be able to see all makefile options. 
 
+*do not use the testing files.
